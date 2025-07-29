@@ -1,3 +1,9 @@
+<br/>
+
+> **"거슬림 없는 UI, 흐름이 끊기지 않는 UX를 추구합니다."**
+
+<br/>
+
 ## Projects
 
 #### [Figgy](https://github.com/eunseozz/figgy)  
