@@ -1,13 +1,13 @@
 ## 🗂 프로젝트
 
-#### [Figgy](https://github.com/YOUR_USERNAME/figgy)  
+#### [Figgy](https://github.com/eunseozz/figgy)  
 Figma 디자인과 실제 화면을 겹쳐 확인하는 오버레이 기반 구현 비교 도구
 
 - `DOM` 요소를 클릭하면 디자인과 픽셀 단위 차이를 툴팁으로 표시  
 - 반응형 해상도 감지 및 이미지 자동 전환 지원  
 - `React` 기반 크롬 확장 프로그램
 
-#### [Domido](https://github.com/YOUR_USERNAME/domino-simulator)  
+#### [Domido](https://github.com/Domi-do/Domido)  
 도미노 배치 및 연쇄 반응을 시뮬레이션할 수 있는 물리 기반 인터랙티브 앱
 
 - `Rapier.js`를 이용한 중력·충돌 시뮬레이션  
