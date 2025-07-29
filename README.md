@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🗂 프로젝트
 
-<!--
-**eunseozz/eunseozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### [Figgy](https://github.com/YOUR_USERNAME/figgy)  
+Figma 디자인과 실제 화면을 겹쳐 확인하는 오버레이 기반 구현 비교 도구
 
-Here are some ideas to get you started:
+- `DOM` 요소를 클릭하면 디자인과 픽셀 단위 차이를 툴팁으로 표시  
+- 반응형 해상도 감지 및 이미지 자동 전환 지원  
+- `React` 기반 크롬 확장 프로그램
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Domido](https://github.com/YOUR_USERNAME/domino-simulator)  
+도미노 배치 및 연쇄 반응을 시뮬레이션할 수 있는 물리 기반 인터랙티브 앱
+
+- `Rapier.js`를 이용한 중력·충돌 시뮬레이션  
+- 마우스 조작 기반 배치 및 실시간 멀티플레이 지원  
+- `React`, `Three.js`, `WebSocket` 기반
+
+
+<br/>
+
+## 🔧 기술 스택
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+<br/>
+
+## 📫 Contact
+
+- Email: eschoyi@gmail.com
