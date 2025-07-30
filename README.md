@@ -2,6 +2,10 @@
 > **"거슬림 없는 UI, 흐름이 끊기지 않는 UX를 추구합니다."**
 
 <br/>
+📩 Contact: choieunseo.dev@gmail.com
+<br/>
+
+<br/>
 
 ## Projects
 
@@ -27,8 +31,3 @@ Figma 디자인과 실제 화면을 겹쳐 확인하는 오버레이 기반 구�
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<br/>
-
-## Contact
-
-- Email: choieunseo.dev@gmail.com
